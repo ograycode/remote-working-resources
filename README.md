@@ -9,7 +9,7 @@ Project/Task Management
  - Asana
  - Trello
 
-Communication
+Instant Communication
 -------------
 
  - HipChat
@@ -17,6 +17,10 @@ Communication
  - Skype
  - Google Hangouts
  - [Sqwiggle](https://www.sqwiggle.com/)
+
+Checking in
+-----------
+ - [iDoneThis](https://idonethis.com/)
 
 Version Control
 --------------
