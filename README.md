@@ -16,6 +16,7 @@ Communication
  - Slack
  - Skype
  - Google Hangouts
+ - [Sqwiggle](https://www.sqwiggle.com/)
 
 Version Control
 --------------
