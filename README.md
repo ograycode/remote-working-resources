@@ -17,6 +17,7 @@ Instant Communication
  - [Skype](http://www.skype.com/en/)
  - [Google Hangouts](http://www.google.com/hangouts/)
  - [Sqwiggle](https://www.sqwiggle.com/)
+ - [Campfire](https://campfirenow.com/)
 
 Checking in
 -----------
