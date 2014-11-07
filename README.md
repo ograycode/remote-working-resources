@@ -1,21 +1,21 @@
 Remote Working Resources
 ========================
 
-Created as a central place to keep track of resources that make it easier to work remotely without sacrafice.
+Created as a central place to keep track of resources that make it easier to work remotely without sacrafice. This list is presented in no particular order.
 
 Project/Task Management
 ------------------
 
- - Asana
- - Trello
+ - [Asana](https://asana.com/)
+ - [Trello](https://trello.com)
 
 Instant Communication
 -------------
 
- - HipChat
- - Slack
- - Skype
- - Google Hangouts
+ - [HipChat](https://www.hipchat.com/)
+ - [Slack](https://slack.com/)
+ - [Skype](http://www.skype.com/en/)
+ - [Google Hangouts](http://www.google.com/hangouts/)
  - [Sqwiggle](https://www.sqwiggle.com/)
 
 Checking in
@@ -25,6 +25,5 @@ Checking in
 Version Control
 --------------
 
- - GitHub
- - Bitbucket
-
+ - [GitHub](https://www.github.com)
+ - [Bitbucket](https://bitbucket.org/)
